@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 
-Extra projects:
+### Extra projects:
 
 Animations: https://github.com/arjunj132/arjunj132.github.io/wiki/My-animations
 
